@@ -16,10 +16,10 @@ sidebar:
   phone:
   timezone: America/Cancun Timezone
   citizenship:
-  website: blog.webjeda.com #do not add http://
+  website:  #do not add http://
   linkedin: yoonkwon-yi
-  xing: alandoe
-  github: sharu725
+  xing: 
+  github: yoonkwon-yi
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -53,18 +53,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+   Results-driven software engineer skilled in full-stack development (JavaScript, TypeScript, Node.js, Express, React, React Native, C#/.NET, Python/Flask, SQL, Java, R, HTML/CSS). Experienced in delivering innovative mobile applications, collaborating with cross-functional teams, and meeting project deadlines. Strong communication, documentation, and problem-solving abilities.
 education:
   title: Education
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MEng in Computer Science
+      university: Cornell University
+      time:
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -73,9 +68,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Computer Science
+      university: University of Minnesota
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,21 +82,15 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 2023 - Present
+      company: Eaton, Raleigh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      - Developed a cutting-edge mobile application utilizing React Native, Redux Toolkit, and TypeScript for a cloud-based remote monitoring service for uninterruptible power supply (UPS) systems.
+      - Collaborated closely with a cross-functional team of 13 members to ensure seamless integration and optimal performance of the mobile application.
+      - Consistently delivered work within set deadlines, achieving an on-time delivery rate of 100% and ensuring timely implementation of critical features.
+      - Maintained comprehensive documentation, leading to a 50% reduction in onboarding time for new team members and improved collaboration within the team.
+      - Effectively communicated project progress, updates, and challenges to stakeholders during daily Scrum meetings.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -151,24 +140,24 @@ projects:
       link: '#'
       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-    - title: Tempo
-      link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#     - title: Tempo
+#       link: '#'
+#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
 
-    - title: Atom
-      link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+#     - title: Atom
+#       link: '#'
+#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
 
-    - title: Delta
-      link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+#     - title: Delta
+#       link: '#'
+#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
 publications:
   title: Publications
@@ -196,20 +185,20 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+    - name: Python
       level: 98%
 
-    - name: Javascript & jQuery
+    - name: Javascript & Typescript
       level: 98%
 
-    - name: Angular
+    - name: React Native
       level: 98%
 
     - name: HTML5 & CSS
       level: 95%
 
-    - name: Ruby on Rails
+    - name: Java
       level: 85%
 
-    - name: Sketch & Photoshop
+    - name: C++
       level: 60%
